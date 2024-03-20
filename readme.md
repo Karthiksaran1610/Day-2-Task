@@ -1,0 +1,1 @@
+My self researched diferentiate between window object and document object and put valuable notes.
